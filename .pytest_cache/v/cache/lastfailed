@@ -1,0 +1,7 @@
+{
+  "test_tic_tac_toe.py": true,
+  "test_tic_tac_toe.py::test_board": true,
+  "test_tictactoe.py::test_board": true,
+  "test_tictactoe.py::test_tictactoe::test_draw_board": true,
+  "test_tictactoe.py::test_tictactoe::test_smoke": true
+}
